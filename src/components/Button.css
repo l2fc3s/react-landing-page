@@ -73,6 +73,26 @@
   border: none;
 }
 
+.skyblue {
+  background-color: #86b3d1;
+  color: white;
+  border: none;
+}
+
+.skyblue:hover {
+  background-color: #aaa0a0;
+}
+
+.olive {
+  background-color: #8e8268;
+  color: white;
+  border: none;
+}
+
+.olive:hover {
+  background-color: #aaa0a0;
+}
+
 .red {
   background-color: #f00946;
   color: white;
