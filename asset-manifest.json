@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.f036f9d0.chunk.css",
+    "main.js": "/react-landing-page/static/js/main.cebc4817.chunk.js",
+    "main.js.map": "/react-landing-page/static/js/main.cebc4817.chunk.js.map",
+    "runtime-main.js": "/react-landing-page/static/js/runtime-main.eda9dc65.js",
+    "runtime-main.js.map": "/react-landing-page/static/js/runtime-main.eda9dc65.js.map",
+    "static/js/2.9d604ed0.chunk.js": "/react-landing-page/static/js/2.9d604ed0.chunk.js",
+    "static/js/2.9d604ed0.chunk.js.map": "/react-landing-page/static/js/2.9d604ed0.chunk.js.map",
+    "index.html": "/react-landing-page/index.html",
+    "static/css/main.f036f9d0.chunk.css.map": "/react-landing-page/static/css/main.f036f9d0.chunk.css.map",
+    "static/js/2.9d604ed0.chunk.js.LICENSE.txt": "/react-landing-page/static/js/2.9d604ed0.chunk.js.LICENSE.txt",
+    "static/media/undraw_podcast_q6p7.0f890b22.svg": "/react-landing-page/static/media/undraw_podcast_q6p7.0f890b22.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda9dc65.js",
+    "static/js/2.9d604ed0.chunk.js",
+    "static/css/main.f036f9d0.chunk.css",
+    "static/js/main.cebc4817.chunk.js"
+  ]
+}
